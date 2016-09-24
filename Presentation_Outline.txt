@@ -1,0 +1,12 @@
+The Problem
+
+for each part in list:
+    create model
+    
+    
+Statsmodels
+Scikit-Learn
+Tensor Flow
+
+Comparison of output
+
