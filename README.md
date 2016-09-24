@@ -1,4 +1,6 @@
-# Automating Regression at Caterpillar with StatsModels
+# Python and Data at Caterpillar
+
+[Link to Presentation](https://docs.google.com/a/larrytooley.com/presentation/d/1c6NXWCUxrGDHgfE36p1UbBY9MswBipwHrD45D6Gw0uU/edit?usp=sharing) 
 
 ## Description:
 
